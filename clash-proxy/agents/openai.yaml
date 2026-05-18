@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clash Proxy"
+  short_description: "Detect and apply Clash proxy settings for shell network access"
+  default_prompt: "Detect a usable Clash proxy in this environment and run the required external network command through it."
